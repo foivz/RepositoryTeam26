@@ -1,0 +1,10 @@
+c:\users\tomislav\documents\visual studio 2012\Projects\projektPI\projektPI\bin\Debug\projektPI.exe.config
+C:\Users\Tomislav\documents\visual studio 2012\Projects\projektPI\projektPI\bin\Debug\projektPI.exe
+C:\Users\Tomislav\documents\visual studio 2012\Projects\projektPI\projektPI\bin\Debug\projektPI.pdb
+C:\Users\Tomislav\documents\visual studio 2012\Projects\projektPI\projektPI\obj\Debug\projektPI.csprojResolveAssemblyReference.cache
+C:\Users\Tomislav\documents\visual studio 2012\Projects\projektPI\projektPI\obj\Debug\projektPI.Properties.Resources.resources
+C:\Users\Tomislav\documents\visual studio 2012\Projects\projektPI\projektPI\obj\Debug\projektPI.csproj.GenerateResource.Cache
+C:\Users\Tomislav\documents\visual studio 2012\Projects\projektPI\projektPI\obj\Debug\projektPI.exe
+C:\Users\Tomislav\documents\visual studio 2012\Projects\projektPI\projektPI\obj\Debug\projektPI.pdb
+C:\Users\Tomislav\documents\visual studio 2012\Projects\projektPI\projektPI\obj\Debug\projektPI.unosTimova.resources
+C:\Users\Tomislav\documents\visual studio 2012\Projects\projektPI\projektPI\obj\Debug\projektPI.Login.resources

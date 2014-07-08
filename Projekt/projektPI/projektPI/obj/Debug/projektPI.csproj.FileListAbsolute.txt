@@ -8,3 +8,6 @@ C:\Users\Tomislav\documents\visual studio 2012\Projects\projektPI\projektPI\obj\
 C:\Users\Tomislav\documents\visual studio 2012\Projects\projektPI\projektPI\obj\Debug\projektPI.pdb
 C:\Users\Tomislav\documents\visual studio 2012\Projects\projektPI\projektPI\obj\Debug\projektPI.unosTimova.resources
 C:\Users\Tomislav\documents\visual studio 2012\Projects\projektPI\projektPI\obj\Debug\projektPI.Login.resources
+C:\Users\Tina\Documents\GitHub\RepositoryTeam26\Projekt\projektPI\projektPI\bin\Debug\projektPI.exe.config
+C:\Users\Tina\Documents\GitHub\RepositoryTeam26\Projekt\projektPI\projektPI\obj\Debug\projektPI.exe
+C:\Users\Tina\Documents\GitHub\RepositoryTeam26\Projekt\projektPI\projektPI\obj\Debug\projektPI.pdb

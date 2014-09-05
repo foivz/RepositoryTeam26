@@ -1,0 +1,70 @@
+c:\users\tomislav\documents\visual studio 2012\Projects\projektPI\projektPI\bin\Debug\projektPI.exe.config
+C:\Users\Tomislav\documents\visual studio 2012\Projects\projektPI\projektPI\bin\Debug\projektPI.exe
+C:\Users\Tomislav\documents\visual studio 2012\Projects\projektPI\projektPI\bin\Debug\projektPI.pdb
+C:\Users\Tomislav\documents\visual studio 2012\Projects\projektPI\projektPI\obj\Debug\projektPI.csprojResolveAssemblyReference.cache
+C:\Users\Tomislav\documents\visual studio 2012\Projects\projektPI\projektPI\obj\Debug\projektPI.Properties.Resources.resources
+C:\Users\Tomislav\documents\visual studio 2012\Projects\projektPI\projektPI\obj\Debug\projektPI.csproj.GenerateResource.Cache
+C:\Users\Tomislav\documents\visual studio 2012\Projects\projektPI\projektPI\obj\Debug\projektPI.exe
+C:\Users\Tomislav\documents\visual studio 2012\Projects\projektPI\projektPI\obj\Debug\projektPI.pdb
+C:\Users\Tomislav\documents\visual studio 2012\Projects\projektPI\projektPI\obj\Debug\projektPI.unosTimova.resources
+C:\Users\Tomislav\documents\visual studio 2012\Projects\projektPI\projektPI\obj\Debug\projektPI.Login.resources
+C:\Users\Tina\Desktop\projektPI\projektPI\bin\Debug\projektPI.exe.config
+C:\Users\Tina\Desktop\projektPI\projektPI\obj\Debug\projektPI.exe
+C:\Users\Tina\Desktop\projektPI\projektPI\obj\Debug\projektPI.pdb
+C:\Users\Tina\Desktop\projektPI\projektPI\bin\Debug\projektPI.exe
+C:\Users\Tina\Desktop\projektPI\projektPI\bin\Debug\projektPI.pdb
+C:\Users\Tina\Desktop\projektPI\projektPI\obj\Debug\projektPI.csprojResolveAssemblyReference.cache
+C:\Users\Tina\Desktop\projektPI\projektPI\obj\Debug\projektPI.Glavna.resources
+C:\Users\Tina\Desktop\projektPI\projektPI\obj\Debug\projektPI.Login.resources
+C:\Users\Tina\Desktop\projektPI\projektPI\obj\Debug\projektPI.unosTimova.resources
+C:\Users\Tina\Desktop\projektPI\projektPI\obj\Debug\projektPI.Properties.Resources.resources
+C:\Users\Tina\Desktop\projektPI\projektPI\obj\Debug\projektPI.csproj.GenerateResource.Cache
+C:\Users\Tina\Desktop\projektPI\projektPI\obj\Debug\projektPI.unosIgraca.resources
+C:\Users\Tina\Desktop\projektPI\projektPI\obj\Debug\projektPI.statistikaIgraca.resources
+C:\Users\Tina\Desktop\projektPI_dorada\projektPI\bin\Debug\projektPI.exe.config
+C:\Users\Tina\Desktop\projektPI_dorada\projektPI\obj\Debug\projektPI.exe
+C:\Users\Tina\Desktop\projektPI_dorada\projektPI\obj\Debug\projektPI.pdb
+C:\Users\Tomislav\Desktop\projektPI_dorada\projektPI\bin\Debug\projektPI.exe.config
+C:\Users\Tomislav\Desktop\projektPI_dorada\projektPI\obj\Debug\projektPI.exe
+C:\Users\Tomislav\Desktop\projektPI_dorada\projektPI\obj\Debug\projektPI.pdb
+C:\Users\Tomislav\Desktop\projektPI_dorada\projektPI\bin\Debug\projektPI.exe
+C:\Users\Tomislav\Desktop\projektPI_dorada\projektPI\bin\Debug\projektPI.pdb
+C:\Users\Tomislav\Desktop\projektPI_dorada\projektPI\obj\Debug\projektPI.csprojResolveAssemblyReference.cache
+C:\Users\Tomislav\Desktop\projektPI_dorada\projektPI\obj\Debug\projektPI.Glavna.resources
+C:\Users\Tomislav\Desktop\projektPI_dorada\projektPI\obj\Debug\projektPI.Login.resources
+C:\Users\Tomislav\Desktop\projektPI_dorada\projektPI\obj\Debug\projektPI.statistikaIgraca.resources
+C:\Users\Tomislav\Desktop\projektPI_dorada\projektPI\obj\Debug\projektPI.unosIgraca.resources
+C:\Users\Tomislav\Desktop\projektPI_dorada\projektPI\obj\Debug\projektPI.unosTimova.resources
+C:\Users\Tomislav\Desktop\projektPI_dorada\projektPI\obj\Debug\projektPI.Properties.Resources.resources
+C:\Users\Tomislav\Desktop\projektPI_dorada\projektPI\obj\Debug\projektPI.csproj.GenerateResource.Cache
+C:\Users\Tomislav\Desktop\projektPI_dorada\projektPI\obj\Debug\projektPI.pregledTimova.resources
+C:\Users\Tomislav\Desktop\projektP101\projektPI\bin\Debug\projektPI.exe.config
+C:\Users\Tomislav\Desktop\projektP101\projektPI\obj\Debug\projektPI.exe
+C:\Users\Tomislav\Desktop\projektP101\projektPI\obj\Debug\projektPI.pdb
+C:\Users\Tomislav\Desktop\projektP101\projektPI\bin\Debug\projektPI.exe
+C:\Users\Tomislav\Desktop\projektP101\projektPI\bin\Debug\projektPI.pdb
+C:\Users\Tomislav\Desktop\projektP101\projektPI\obj\Debug\projektPI.csprojResolveAssemblyReference.cache
+C:\Users\Tomislav\Desktop\projektP101\projektPI\obj\Debug\projektPI.Glavna.resources
+C:\Users\Tomislav\Desktop\projektP101\projektPI\obj\Debug\projektPI.Login.resources
+C:\Users\Tomislav\Desktop\projektP101\projektPI\obj\Debug\projektPI.pregledTimova.resources
+C:\Users\Tomislav\Desktop\projektP101\projektPI\obj\Debug\projektPI.statistikaIgraca.resources
+C:\Users\Tomislav\Desktop\projektP101\projektPI\obj\Debug\projektPI.unosIgraca.resources
+C:\Users\Tomislav\Desktop\projektP101\projektPI\obj\Debug\projektPI.unosTimova.resources
+C:\Users\Tomislav\Desktop\projektP101\projektPI\obj\Debug\projektPI.Properties.Resources.resources
+C:\Users\Tomislav\Desktop\projektP101\projektPI\obj\Debug\projektPI.csproj.GenerateResource.Cache
+C:\Users\Tomislav\Desktop\projektP101\projektPI\obj\Debug\projektPI.planiranje.resources
+C:\Users\Tomislav\Documents\FOIIIIIIII\Za fax-3 godina\PI\projektP101\projektPI\bin\Debug\projektPI.exe.config
+C:\Users\Tomislav\Documents\FOIIIIIIII\Za fax-3 godina\PI\projektP101\projektPI\obj\Debug\projektPI.exe
+C:\Users\Tomislav\Documents\FOIIIIIIII\Za fax-3 godina\PI\projektP101\projektPI\obj\Debug\projektPI.pdb
+C:\Users\Tomislav\Documents\FOIIIIIIII\Za fax-3 godina\PI\projektP101\projektPI\obj\Debug\projektPI.csprojResolveAssemblyReference.cache
+C:\Users\Tomislav\Documents\FOIIIIIIII\Za fax-3 godina\PI\projektP101\projektPI\obj\Debug\projektPI.Glavna.resources
+C:\Users\Tomislav\Documents\FOIIIIIIII\Za fax-3 godina\PI\projektP101\projektPI\obj\Debug\projektPI.Login.resources
+C:\Users\Tomislav\Documents\FOIIIIIIII\Za fax-3 godina\PI\projektP101\projektPI\obj\Debug\projektPI.planiranje.resources
+C:\Users\Tomislav\Documents\FOIIIIIIII\Za fax-3 godina\PI\projektP101\projektPI\obj\Debug\projektPI.statistikaIgraca.resources
+C:\Users\Tomislav\Documents\FOIIIIIIII\Za fax-3 godina\PI\projektP101\projektPI\obj\Debug\projektPI.unosIgraca.resources
+C:\Users\Tomislav\Documents\FOIIIIIIII\Za fax-3 godina\PI\projektP101\projektPI\obj\Debug\projektPI.unosTimova.resources
+C:\Users\Tomislav\Documents\FOIIIIIIII\Za fax-3 godina\PI\projektP101\projektPI\obj\Debug\projektPI.Properties.Resources.resources
+C:\Users\Tomislav\Documents\FOIIIIIIII\Za fax-3 godina\PI\projektP101\projektPI\obj\Debug\projektPI.csproj.GenerateResource.Cache
+C:\Users\Tomislav\Documents\FOIIIIIIII\Za fax-3 godina\PI\projektP101\projektPI\bin\Debug\projektPI.exe
+C:\Users\Tomislav\Documents\FOIIIIIIII\Za fax-3 godina\PI\projektP101\projektPI\bin\Debug\projektPI.pdb
+C:\Users\Tomislav\Documents\FOIIIIIIII\Za fax-3 godina\PI\projektP101\projektPI\obj\Debug\projektPI.Utakmica.resources
